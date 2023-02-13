@@ -1,8 +1,8 @@
 {
   "intro": "Hello, world",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
-    "alt": "My Photo"
+    "src": "",
+    "alt": ""
   },
   "image": {
     "src": "../../images/waving-hand.png",
@@ -17,6 +17,6 @@
   "description": "I'm Passionate about Open Source, currently focused on learning about React & typescript",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "showIcons": true
   }
 }
