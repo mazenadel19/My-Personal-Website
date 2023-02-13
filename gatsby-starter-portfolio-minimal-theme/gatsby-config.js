@@ -21,9 +21,18 @@ module.exports = {
         googleAnalytics: {
             trackingId: "G-ZNP2T1GXDP",
             anonymize: true, // Default true
-            environments: ["production", "development"] // Default ["production"]
+            environments: ["production"] // Default ["production"]
         }
       },
     },
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: ["G-ZNP2T1GXDP"],
+        pluginConfig: {
+          head: true        
+        },
+      }
+    }
   ],
 };
