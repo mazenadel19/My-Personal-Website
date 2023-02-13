@@ -30,7 +30,16 @@ module.exports = {
       options: {
         trackingIds: ["G-ZNP2T1GXDP"],
         pluginConfig: {
-          head: true        
+          // Puts tracking script in the head instead of the body
+          head: false,
+          // Setting this parameter is also optional
+          respectDNT: true,
+          // Avoids sending pageview hits from custom paths
+          exclude: [],
+          // Defaults to https://www.googletagmanager.com
+          origin: "https://www.mazenadel19.vercel.app",
+          // Delays processing pageview events on route update (in milliseconds)
+          delayOnRouteUpdate: 0,
         },
       }
     }
