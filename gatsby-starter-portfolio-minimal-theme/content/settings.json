@@ -1,7 +1,7 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "siteUrl": "https://mazenadel19.vercel.app/",
     "title": "Mazen Emam",
     "titleTemplate": "%s · Portfolio",
     "description": "Mazen Emam is an experienced software engineer who is proficient in developing user interfaces with React and other frontend web technologies. He has a good understanding of web development principles, including HTML, CSS, JavaScript, and related frameworks, and is experienced in building interactive, visually appealing web applications. He is also able to efficiently debug and optimize web applications, utilizing debugging tools and performance optimization techniques to ensure a smooth user experience.",
@@ -22,8 +22,17 @@
         { "label": "About", "url": "/#about" },
         { "label": "Projects", "url": "/#projects" }
       ],
-      "ctaButton": {},
-      "footer": []
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/Mazen_Emam_Front_End_Developer.pdf"
+      },
+      "footer": [
+        { "label": "github", "url": "https://github.com/mazenadel19" },
+        { "label": "medium", "url": "https://mazenadel19.medium.com" },
+        { "label": "linkedin", "url": "https://www.linkedin.com/in/mazen-adel19/" },
+        { "label": "mail", "url": "mailto:mazenadel19@gmail.com" }
+      ]
     },
     "featureToggles": {
       "useDarkModeAsDefault": true,
