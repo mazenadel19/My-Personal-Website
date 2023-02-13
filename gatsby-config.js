@@ -1,6 +1,15 @@
 module.exports = {
   plugins: [
     {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: ["G-ZNP2T1GXDP"],
+        pluginConfig: {
+          head: true,
+        },
+      },
+    },
+    {
       resolve: "gatsby-theme-portfolio-minimal",
       options: {
         siteUrl: "https://mazenadel19.vercel.app/", // Used for sitemap generation
@@ -19,6 +28,6 @@ module.exports = {
           usePathPrefixForArticles: true, // Default true (i.e. path will be /blog/first-article)
         },
       },
-    },
+    } 
   ]
 };
