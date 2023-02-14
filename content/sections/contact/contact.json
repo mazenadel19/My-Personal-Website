@@ -3,7 +3,7 @@
   "email": "example@mail.com",
   "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
   "image": {
-    "src": "../../images/favicon.svg",
+    "src": "../../images/favicon.png",
     "alt": "Gatsby Logo"
   },
   "socialProfiles": {
