@@ -1,59 +1,86 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "HTML",
       "image": {
-        "src": "../../images/joystick.png",
-        "alt": ""
+        "src": "../../images/html.png",
+        "alt": "HTML"
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "CSS",
       "image": {
-        "src": "../../images/notebook.png",
-        "alt": ""
+        "src": "../../images/css.png",
+        "alt": "CSS"
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "JavaScript",
       "image": {
-        "src": "../../images/nail-polish.png",
-        "alt": ""
+        "src": "../../images/js.png",
+        "alt": "JavaScript"
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "TypeScript",
       "image": {
-        "src": "../../images/medium.png",
-        "alt": ""
+        "src": "../../images/typescript.png",
+        "alt": "TypeScript"
       }
     },
     {
-      "label": "Animations",
+      "label": "React",
       "image": {
-        "src": "../../images/gem-stone.png",
-        "alt": ""
+        "src": "../../images/react.png",
+        "alt": "React"
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "Redux",
       "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
+        "src": "../../images/redux.png",
+        "alt": "Redux"
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "MobX",
       "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
+        "src": "../../images/mobx.png",
+        "alt": "MobX"
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Firebase",
       "image": {
-        "src": "../../images/high-voltage.png",
-        "alt": ""
+        "src": "../../images/firebase.png",
+        "alt": "Firebase"
+      }
+    },
+    {
+      "label": "Material UI",
+      "image": {
+        "src": "../../images/mui.png",
+        "alt": "Material UI"
+      }
+    },
+    {
+      "label": "Bootstrap",
+      "image": {
+        "src": "../../images/bootstrap.png",
+        "alt": "Bootstrap"
+      }
+    },
+    {
+      "label": "SASS",
+      "image": {
+        "src": "../../images/sass.png",
+        "alt": "SASS"
+      }
+    },{
+      "label": "Git",
+      "image": {
+        "src": "../../images/git.png",
+        "alt": "Git"
       }
     }
   ],

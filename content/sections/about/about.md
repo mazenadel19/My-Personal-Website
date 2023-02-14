@@ -1,6 +1,6 @@
 ---
 imageSrc: "../../images/avatar.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageAlt: "My Avatar"
 ---
 
 I'm an experienced software engineer, proficient in developing user interfaces with React and other frontend web technologies. 
