@@ -1,0 +1,11 @@
+@media (max-width: 360px) {
+    .style-module--Interests--3d3b3 {
+        grid-template-columns: repeat(1, max(13.5rem, 100%));
+    }
+    
+    
+    .style-module--Interest--4bfd4 {
+        width: max(13.5rem, 100%);
+    } 
+}
+

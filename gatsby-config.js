@@ -14,7 +14,7 @@ module.exports = {
       options: {
         siteUrl: "https://mazenadel19.vercel.app/", // Used for sitemap generation
         manifestSettings: {
-          favicon: "./content/images/favicon.png", // Path is relative to the root
+          favicon: "./content/images/favicon.svg", // Path is relative to the root
           siteName: "Mazen Emam", // Used in manifest.json
           shortName: "Mazen Emam", // Used in manifest.json
           startUrl: "/", // Used in manifest.json

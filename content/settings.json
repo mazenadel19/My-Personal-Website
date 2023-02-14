@@ -16,7 +16,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Zen Zone" },
+    "logo": { "text": "ZE" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
@@ -29,8 +29,6 @@
       },
       "footer": [
         { "label": "github", "url": "https://github.com/mazenadel19" },
-        { "label": "medium", "url": "https://mazenadel19.medium.com" },
-        { "label": "linkedin", "url": "https://www.linkedin.com/in/mazen-adel19/" },
         { "label": "mail", "url": "mailto:mazenadel19@gmail.com" }
       ]
     },
