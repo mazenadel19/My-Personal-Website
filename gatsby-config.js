@@ -1,5 +1,10 @@
 module.exports = {
+  siteMetadata: {
+    // If you didn't use the resolveSiteUrl option this needs to be set
+    siteUrl: `https://mazenadel19.vercel.app/`,
+  },
   plugins: [
+  `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
@@ -28,6 +33,6 @@ module.exports = {
           usePathPrefixForArticles: true, // Default true (i.e. path will be /blog/first-article)
         },
       },
-    } 
-  ]
+    },
+  ],
 };
