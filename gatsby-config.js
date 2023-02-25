@@ -1,6 +1,3 @@
-
-const siteUrl = `https://mazenadel19.vercel.app/`;
-
 module.exports = {
   siteMetadata: {
     title: `Mazen Emam`,
