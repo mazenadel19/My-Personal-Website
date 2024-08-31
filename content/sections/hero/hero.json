@@ -10,11 +10,11 @@
   },
   "title": "I'm Mazen",
   "subtitle": {
-    "prefix": "A frontend developer with ",
-    "highlight": "3 years",
+    "prefix": "A Mid-Senior Frontend Engineer with ",
+    "highlight": "3+ years",
     "suffix": " of professional experience."
   },
-  "description": "I'm passionate about Open Source, currently focused on learning about React & typescript",
+  "description": "I'm passionate about Open Source, currently focused on learning about React ecosystem and MERN stack",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": true

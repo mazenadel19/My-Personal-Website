@@ -82,18 +82,6 @@
         "src": "../../images/git.png",
         "alt": "Git"
       }
-    },{
-      "label": "Jest",
-      "image": {
-        "src": "../../images/jest.png",
-        "alt": "Jest"
-      }
-    },{
-      "label": "React Testing Library",
-      "image": {
-        "src": "../../images/rtl.png",
-        "alt": "React Testing Library"
-      }
     }
   ],
   "button": {
