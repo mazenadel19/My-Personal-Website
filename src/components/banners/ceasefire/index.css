@@ -1,0 +1,14 @@
+.banner{
+    font-weight: 700;
+    line-height: 1.75rem;
+    font-size: 1.125rem;
+    text-align: center;
+    padding: .5rem;
+    background-color: var(--secondary-color);
+    width: 100%;
+}
+
+.banner > a {
+    color: var(--text-color);
+    text-decoration: underline;
+}
